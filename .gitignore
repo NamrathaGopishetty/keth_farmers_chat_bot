@@ -1,0 +1,8 @@
+venv/ 
+venv/ 
+.sfdx/ 
+__pycache__/
+.env 
+*.pkl 
+*.index 
+git 
